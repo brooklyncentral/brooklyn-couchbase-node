@@ -22,6 +22,7 @@ brooklyn.catalog:
   name: CouchBase Node
   description: Couchbase Server is an open source, distributed (shared-nothing architecture) NoSQL document-oriented database that is optimized for interactive applications.
   itemType: template
+  iconUrl: https://upload.wikimedia.org/wikipedia/en/5/52/CouchbaseLogo.svg
   license: Apache-2.0
   publish:
     license_code: Apache-2.0
